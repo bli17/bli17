@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bohan Li. I'm a postdoctoral fellow at Western University and Research Associate with the Institute for Catastrophic Loss Reduction. I have a Ph.D. in Economics from Western University.
+- 🌱 I’m currently learning about data science and risk management.
+- 📫 You can reach me at bli17@outlook.com.
